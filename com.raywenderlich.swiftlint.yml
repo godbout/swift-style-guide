@@ -2,6 +2,8 @@ excluded:
   - Carthage
   - Pods
   - DerivedData
+  - macO-VimTests
+  - macO-VimUITests
 
 disabled_rules:
   - discarded_notification_center_observer
