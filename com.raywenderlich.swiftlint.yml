@@ -79,6 +79,11 @@ legacy_hashing: error
 
 identifier_name:
   excluded:
+    - h
+    - j
+    - k
+    - l
+    - up
     - i
     - id
     - x
