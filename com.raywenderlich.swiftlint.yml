@@ -79,6 +79,7 @@ legacy_hashing: error
 
 identifier_name:
   excluded:
+    - e
     - n0
     - n4
     - h
