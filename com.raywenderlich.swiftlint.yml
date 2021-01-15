@@ -80,6 +80,7 @@ legacy_hashing: error
 identifier_name:
   excluded:
     - e
+    - b
     - n0
     - n4
     - h
