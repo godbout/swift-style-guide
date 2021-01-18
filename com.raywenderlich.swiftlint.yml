@@ -100,6 +100,7 @@ identifier_name:
     - y
     - z
     - d
+    - c
 
 indentation_width:
   indentation_width: 4
