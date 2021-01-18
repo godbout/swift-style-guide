@@ -101,6 +101,8 @@ identifier_name:
     - z
     - d
     - c
+    - u
+    - z
 
 indentation_width:
   indentation_width: 4
@@ -123,3 +125,6 @@ trailing_whitespace:
 
 vertical_whitespace:
   max_empty_lines: 2
+
+cyclomatic_complexity:
+  ignores_case_statements: true
