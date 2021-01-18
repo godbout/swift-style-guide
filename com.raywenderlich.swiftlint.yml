@@ -99,6 +99,7 @@ identifier_name:
     - x
     - y
     - z
+    - d
 
 indentation_width:
   indentation_width: 4
