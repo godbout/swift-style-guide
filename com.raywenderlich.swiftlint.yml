@@ -103,6 +103,7 @@ identifier_name:
     - c
     - u
     - z
+    - x
 
 indentation_width:
   indentation_width: 4
