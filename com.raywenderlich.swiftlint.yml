@@ -104,6 +104,7 @@ identifier_name:
     - u
     - z
     - x
+    - r
 
 indentation_width:
   indentation_width: 4
